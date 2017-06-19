@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="name">नाम</string>
+    <string name="cream">आइसक्रीम</string>
+    <string name="chocolate">चॉकलेट</string>
+    <string name="toppings">टॉपिंग</string>
+    <string name="quantity">मात्रा</string>
+    <string name="summary">सारांश</string>
+    <string name="order">बुक</string>
+    <string name="total">कुल = रु  0</string>
+
+</resources>
